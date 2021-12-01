@@ -14,7 +14,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 
+-----------
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=zely20&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zely20&layout=compact)](https://github.com/zely20/github-readme-stats)
 <!--
 **zely20/zely20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
